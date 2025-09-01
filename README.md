@@ -146,16 +146,6 @@
 
 </div>
 
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=event-planner&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)](https://github.com/chetx27/event-planner)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)](https://github.com/chetx27/portfolio)
-
-</div>
 
 ---
 
