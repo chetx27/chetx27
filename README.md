@@ -5,9 +5,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=150&section=header&text=◦%20Welcome%20to%20my%20digital%20universe%20◦&fontSize=28&fontColor=FF91A4&animation=fadeIn&fontAlignY=35&desc=where%20code%20meets%20creativity&descAlign=50&descAlignY=60&descSize=16)
 
 ```
-      ╭─────────────────────────────────────────╮
-      │  🌸 { coding: "with style", vibe: "✨" }  │
-      ╰─────────────────────────────────────────╯
+                                                       ╭─────────────────────────────────────────╮
+                                                     │  🌸 { coding: "with style", vibe: "✨" }  │
+                                                       ╰─────────────────────────────────────────╯
 ```
 
 </div>
@@ -15,7 +15,7 @@
 ## 💫 About Me
 
 🔭 I'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!<br>
-🌱 Currently diving deep into **Ui/Ux and DSA** to build beautiful things<br>
+🌱 Currently diving deep into **JavaScript & CSS** to build beautiful things<br>
 💖 Always excited to learn something new and turn ideas into reality<br>
 
 ---
@@ -112,13 +112,10 @@
 
 <div align="center">
 
-### 🎲 **Fun Fact Generator**
-![Bored API](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight&bgColor=0D1117&textColor=ffffff&codeColor=FF91A4)
+### 🎲 **Fun Programming Facts**
+![Programming Jokes](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight&bgColor=0D1117&textColor=ffffff&codeColor=FF91A4)
 
-### 📰 **What's Happening in Tech Today**
-![Tech News](https://techcrunch-readme-api.vercel.app/api/latest?theme=dark&count=1&bg_color=0D1117&title_color=FF91A4&text_color=ffffff)
-
-### 🎯 **Programming Humor**
+### 🎯 **Random Developer Humor**
 ![Joke Card](https://readme-jokes.vercel.app/api?theme=material-palenight&hideBorder&bgColor=0D1117&textColor=ffffff&codeColor=FF91A4)
 
 </div>
@@ -199,14 +196,13 @@ Currently mastering: **JavaScript ES6+** & **Advanced CSS Animations** 🚀
 
 <div align="center">
 
-### Thanks for stopping by! 💖
 
-```
-      ╭────────────────────────────╮
-      │   Happy coding! ✨🎀✨     │
-      ╰────────────────────────────╯
-```
+                                                                             ```
+                                                                ╭────────────────────────────╮
+                                                                │   Happy coding! ✨🎀✨    │
+                                                                ╰────────────────────────────╯
+                                                                             ```
 
-**💫 Let's build something amazing together! 💫**
+                                                      **💫 Let's build something amazing together! 💫**
 
 </div>
