@@ -15,7 +15,7 @@
 ## 💫 About Me
 
 🔭 I'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!<br>
-🌱 Currently diving deep into **JavaScript & CSS** to build beautiful things<br>
+🌱 Currently diving deep into **Ui/Ux and DSA** to build beautiful things<br>
 💖 Always excited to learn something new and turn ideas into reality<br>
 
 ---
@@ -29,9 +29,6 @@
 
 ### 🌸 **Productivity Patterns**
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chetx27&theme=material_palenight&utcOffset=5.5)
-
-### 🔮 **Commit History Timeline**
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetx27&theme=material_palenight)
 
 </div>
 
@@ -111,11 +108,18 @@
 
 ---
 
-## 💭 Developer Wisdom
+## 💭 Daily Dose of Awesomeness
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=material-palenight)
+### 🎲 **Fun Fact Generator**
+![Bored API](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight&bgColor=0D1117&textColor=ffffff&codeColor=FF91A4)
+
+### 📰 **What's Happening in Tech Today**
+![Tech News](https://techcrunch-readme-api.vercel.app/api/latest?theme=dark&count=1&bg_color=0D1117&title_color=FF91A4&text_color=ffffff)
+
+### 🎯 **Programming Humor**
+![Joke Card](https://readme-jokes.vercel.app/api?theme=material-palenight&hideBorder&bgColor=0D1117&textColor=ffffff&codeColor=FF91A4)
 
 </div>
 
@@ -146,6 +150,16 @@
 
 </div>
 
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=event-planner&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)](https://github.com/chetx27/event-planner)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)](https://github.com/chetx27/portfolio)
+
+</div>
 
 ---
 
@@ -163,16 +177,8 @@
 
 <div align="center">
 
-### 📅 **This Week's Code Time**
-<!--START_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=chetx27&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff)
-<!--END_SECTION:waka-->
-
-### 🔥 **Contribution Heatmap**
-![Contribution Graph](https://ghchart.rshah.org/FF91A4/chetx27)
-
-### 💫 **Most Used Languages Over Time**
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=donut-vertical&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff)
+### 📅 **This Week's Focus**
+Currently mastering: **JavaScript ES6+** & **Advanced CSS Animations** 🚀
 
 </div>
 
@@ -191,14 +197,16 @@
 
 ### Thanks for visiting! 💖
 
+<div align="center">
+
+### Thanks for stopping by! 💖
+
 ```
-    ∧___∧
-   (  ̳• · • ̳)
-   /    づ♡  Keep coding & stay creative!
+      ╭────────────────────────────╮
+      │   Happy coding! ✨🎀✨     │
+      ╰────────────────────────────╯
 ```
 
-**💫 "Crafting digital experiences, one line at a time" 💫**
-
-![Snake Animation](https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake-dark.svg)
+**💫 Let's build something amazing together! 💫**
 
 </div>
