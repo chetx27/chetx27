@@ -5,9 +5,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=150&section=header&text=◦%20Welcome%20to%20my%20digital%20universe%20◦&fontSize=28&fontColor=FF91A4&animation=fadeIn&fontAlignY=35&desc=where%20code%20meets%20creativity&descAlign=50&descAlignY=60&descSize=16)
 
 ```
-╭─────────────────────────────────────────╮
- │  🌸 { coding: "with style", vibe: "✨" }  │
-╰─────────────────────────────────────────╯
+      ╭─────────────────────────────────────────╮
+      │  🌸 { coding: "with style", vibe: "✨" }  │
+      ╰─────────────────────────────────────────╯
 ```
 
 </div>
@@ -142,19 +142,6 @@
 
 ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&bg_color=0d1117&color=ff91a4&line=ff69b4&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey%20Visualized)
 
-### 📊 **Weekly Development Breakdown**
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=chetx27&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&layout=compact)
-
-</div>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=event-planner&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)](https://github.com/chetx27/event-planner)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)](https://github.com/chetx27/portfolio)
 
 </div>
 
@@ -165,17 +152,6 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&theme=material-palenight&bg_color=0d1117&color=ff91a4&line=ff69b4&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Coding Stats & Insights
-
-<div align="center">
-
-### 📅 **This Week's Focus**
-Currently mastering: **JavaScript ES6+** & **Advanced CSS Animations** 🚀
 
 </div>
 
@@ -197,12 +173,12 @@ Currently mastering: **JavaScript ES6+** & **Advanced CSS Animations** 🚀
 <div align="center">
 
 
-                                                                             ```
-                                                            ╭────────────────────────────╮
-                                                            │   Happy coding! ✨🎀✨    │
-                                                            ╰────────────────────────────╯
-                                                                             ```
+```
+      ╭────────────────────────────╮
+      │   Happy coding! ✨🎀✨     │
+      ╰────────────────────────────╯
+```
 
-                                                      **💫 Let's build something amazing together! 💫**
+**💫 Let's build something amazing together! 💫**
 
 </div>
