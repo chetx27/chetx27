@@ -4,6 +4,12 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=header&text=Welcome&fontSize=32&fontColor=FF91A4&animation=fadeIn)
 
+```
+      ╭─────────────────────────────────────────╮
+      │  🌸 { coding: "with style", vibe: "✨" }  │
+      ╰─────────────────────────────────────────╯
+```
+
 </div>
 
 ## 💫 About Me
@@ -26,9 +32,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chetx27&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=chetx27&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=ffffff&icon_color=FF91A4)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=material-palenight&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=material-palenight&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF91A4&text_color=ffffff)
 
 </div>
 
@@ -47,14 +55,14 @@
 
 <div align="center">
 
-### Thanks for stopping by! 💖
+### Thanks for visiting! 💖
 
 ```
-╭──────────────────────────╮
-│   Happy coding! ✨🎀✨   │
-╰──────────────────────────╯
+      ╭────────────────────────────╮
+      │   Happy coding! ✨🎀✨     │
+      ╰────────────────────────────╯
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=FF91A4&style=for-the-badge)
+**💫 Let's build something amazing together! 💫**
 
 </div>
