@@ -1,9 +1,4 @@
 # Hey there! I'm Chethana 🎀
-
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,6,14,24&height=160&section=header&text=◦%20Welcome%20to%20my%20digital%20universe%20◦&fontSize=28&fontColor=FF91A4&animation=fadeIn&fontAlignY=35&desc=where%20code%20meets%20creativity&descAlign=50&descAlignY=60&descSize=16)
-
 ```
       ╭─────────────────────────────────────────╮
       │  🌸 { coding: "with style", vibe: "✨" }  │
