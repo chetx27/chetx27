@@ -15,7 +15,7 @@
 ## 💫 About Me
 
 🔭 I'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!<br>
-🌱 Currently diving deep into **JavaScript & CSS** to build beautiful things<br>
+🌱 Currently diving deep into **DSA AND JS** to build beautiful things<br>
 💖 Always excited to learn something new and turn ideas into reality<br>
 
 ---
@@ -159,7 +159,7 @@
 
 ## 🌸 What I'm Working On
 
-- 🎯 Perfecting my JavaScript skills
+- 🎯 Perfecting my skills
 - 🎨 Creating beautiful, responsive web designs
 - 📚 Building projects that combine code with creativity
 - 🌟 Learning new technologies every day
