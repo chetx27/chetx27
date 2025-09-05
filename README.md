@@ -126,9 +126,9 @@
 
 - 🎀 I love adding aesthetic touches to my code and projects
 - 📚 Currently reading tech blogs and coding tutorials daily
-- 🌸 Rose Pine is my favorite color scheme (can you tell? 😄)
-- ☕ Fueled by coffee and curiosity
-- 🎯 Goal: To create applications that make people's lives better
+- 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell?😄)
+- ☕ Coffee? Hell no.
+- 🎯 Weird? 100% Yes.
 
 ---
 
