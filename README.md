@@ -12,10 +12,10 @@
 
 ## 💫 About Me 
 
-🔭 I'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!  
-🌱 Currently diving deep into **DSA and JavaScript** to build beautiful things  
-💖 Always excited to learn something new and turn ideas into reality  
-✨ Passionate about creating clean, efficient code and beautiful user experiences
+🔭 i'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!  
+🌱 currently diving deep into **DSA and JavaScript** to build beautiful things  
+💖 always excited to learn something new and turn ideas into reality  
+💕 i love exploring new things ;)
 
 ---
 
@@ -127,7 +127,7 @@
 - 🎀 I love adding aesthetic touches to my code and projects
 - 📚 Currently reading tech blogs and coding tutorials daily
 - 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell?😄)
-- ☕ Coffee? Hell no.
+- ☕ Coffee? Hell no. Not in this lifetime.
 - 🎯 Weird? 100% Yes.
 
 ---
