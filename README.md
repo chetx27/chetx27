@@ -111,17 +111,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=your-best-repo&theme=rose_pine)](https://github.com/chetx27/your-best-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=another-cool-project&theme=rose_pine)](https://github.com/chetx27/another-cool-project)
-
-</div>
-
----
-
 ## 🎨 Fun Facts
 
 - 🎀 I love adding aesthetic touches to my code and projects
