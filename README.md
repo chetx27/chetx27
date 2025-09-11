@@ -67,8 +67,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose_pine&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
