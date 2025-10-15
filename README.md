@@ -105,7 +105,6 @@
 
 ## 🎨 Fun Facts
 
-- 🎀 I love adding aesthetic touches to my code and projects
 - 📚 love binging on books when i need space
 - 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell?😄)
 - ☕ Coffee? Hell no. Not in this lifetime.
