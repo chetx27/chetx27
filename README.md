@@ -7,6 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7)
 ![GitHub User's stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7)
 
+[![An image of @chetx27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
+
 </div>
 
 ---
