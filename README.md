@@ -7,7 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7)
 ![GitHub User's stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7)
 
-[![An image of @chetx27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
 
 </div>
 
@@ -97,9 +96,6 @@
 
 ### 🔥 **Current Focus**
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&background=19172400&center=true&vCenter=true&width=600&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Turning+coffee+into+code+☕️;Always+learning+something+new+✨)
-
-### 🌟 **Contribution Graph**
-![Activity Graph](https://github-profile-activity-graph.vercel.app/graph?username=chetx27&theme=rose-pine&bg_color=191724&color=e0def4&line=c4a7e7&point=f6c177&area=true&hide_border=true&custom_title=My%20Coding%20Journey)
 
 ### 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chetx27&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4)
