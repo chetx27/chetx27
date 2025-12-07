@@ -88,17 +88,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose_pine)
 
-![Metrics](https://metrics.lecoq.io/chetx27?template=classic&base=metadata%2C%20repositories%2C%20traffic&base.repositories=0&base.hireable=false&config.timezone=Asia%2FKolkata&config.display=large)
-
-</div>
-
----
-
-## 📈 Top Languages
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&langs_count=8&theme=rose_pine&layout=compact&hide_border=false)
 
 </div>
 
