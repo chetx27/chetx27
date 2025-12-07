@@ -46,6 +46,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Computer Vision & ML
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097FF?style=for-the-badge&logo=google&logoColor=white)
+![Python CV](https://img.shields.io/badge/Computer%20Vision-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ### Cloud & Platforms
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -71,7 +76,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetx27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethana.workspace@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/chetx27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://github.com/chetx27)
 
 </div>
 
@@ -114,7 +119,7 @@
 <div align="center">
 
 ### 🔥 **Current Focus**
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&background=19172400&center=true&vCenter=true&width=600&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Turning+coffee+into+code+☕️;Always+learning+something+new+✨)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&background=19172400&center=true&vCenter=true&width=600&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Turning+coffee+into+code+☕️;Always+learning+something+new+✨;Building+Computer+Vision+projects+with+OpenCV)
 
 ### 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chetx27&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
@@ -126,11 +131,12 @@
 ## 🎨 Fun Facts
 
 - 📚 love binging on books when i need space
-- 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell?😄)
+- 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell? 😄)
 - ☕ Coffee? Hell no. Not in this lifetime.
 - 🎯 Weird? 100% Yes.
 - 💡 Believer in clean code and even cleaner commits
 - 🎮 When I'm not coding, I'm probably designing or reading
+- 👀 Currently exploring Computer Vision and Face Recognition projects
 
 ---
 
@@ -147,8 +153,6 @@
 <div align="center">
 
 ### Thanks for visiting! 💖
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine)
 
 <div align="center">
   <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
