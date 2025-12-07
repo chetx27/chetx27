@@ -13,7 +13,7 @@
 ## 💫 About Me 
 
 🔭 i'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!  
-🌱 currently diving deep into **com sci** to build beautiful things  
+🌱 currently diving deep into **DSA and JavaScript** to build beautiful things  
 💖 always excited to learn something new and turn ideas into reality  
 💕 i love exploring new things ;)
 
@@ -86,37 +86,49 @@
 
 <div align="center">
 
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose_pine&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose_pine)
 
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetx27&theme=rose_pine&hide_border=false&show_icons=true&count_private=true&include_all_commits=true)
+![Metrics](https://metrics.lecoq.io/chetx27?template=classic&base=metadata%2C%20repositories%2C%20traffic&base.repositories=0&base.hireable=false&config.timezone=Asia%2FKolkata&config.display=large)
 
 </div>
 
 ---
 
-## ✨ Detailed Insights
+## 📈 Top Languages
 
 <div align="center">
 
-### 📈 **Most Used Languages**
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=pie&theme=rose_pine&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&langs_count=8&theme=rose_pine&layout=compact&hide_border=false)
 
 </div>
 
 ---
 
-## 🎯 Live Activity
+## 🔥 GitHub Activity
 
 <div align="center">
 
-### 🔥 **Current Focus**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&center=true&vCenter=true&width=600&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Turning+code+into+magic+✨;Computer+Vision+with+OpenCV;Always+learning+something+new)](https://github.com/chetx27)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&theme=rose-pine&hide_border=true)](https://github.com/chetx27)
 
-### 🏆 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chetx27&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&center=true&vCenter=true&width=700&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Computer+Vision+with+OpenCV;Always+learning+something+new+✨)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=chetx27&theme=rose_pine&no-frame=true&no-bg=true&row=1&column=6)
 
 </div>
 
@@ -130,21 +142,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **Face Filter CV Project** - Real-time face detection and edge tracking with OpenCV & MediaPipe
-- **Portfolio Website** - Responsive design with React and TailwindCSS
-- Check out more on my [GitHub](https://github.com/chetx27)
-
----
-
 <div align="center">
 
 ### Thanks for visiting! 💖
-
-<div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
-</div>
 
 ---
 
