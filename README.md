@@ -55,7 +55,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
 ### Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -86,9 +86,14 @@
 
 <div align="center">
 
+### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose_pine&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetx27&theme=rose_pine&hide_border=false&show_icons=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -98,17 +103,11 @@
 
 <div align="center">
 
-### 💻 **Language Distribution**
-![Language Circle](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=donut&theme=rose_pine&hide_border=true&bg_color=191724&title_color=e0def4&text_color=e0def4)
+### 📈 **Most Used Languages**
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=pie&theme=rose_pine&hide_border=false)
 
-### 🌸 **Productivity Patterns**
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chetx27&theme=rose_pine&utcOffset=5.5)
-
-### 📈 **Profile Summary**
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetx27&theme=rose_pine)
-
-### 📉 **Commit Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&theme=rose-pine&hide_border=true&bg_color=191724&color=e0def4&line=c4a7e7&point=eb6f92)
+### 🔥 **GitHub Activity Graph**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&bg_color=191724&color=e0def4&line=c4a7e7&point=eb6f92&area=true&hide_border=true&theme=rose-pine)](https://github.com/chetx27)
 
 </div>
 
@@ -119,7 +118,7 @@
 <div align="center">
 
 ### 🔥 **Current Focus**
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&background=19172400&center=true&vCenter=true&width=600&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Turning+coffee+into+code+☕️;Always+learning+something+new+✨;Building+Computer+Vision+projects+with+OpenCV)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e0def4&center=true&vCenter=true&width=600&lines=Building+beautiful+websites+with+JavaScript;Creating+responsive+designs+with+CSS;Mastering+algorithms+one+problem+at+a+time;Turning+code+into+magic+✨;Computer+Vision+with+OpenCV;Always+learning+something+new)](https://github.com/chetx27)
 
 ### 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chetx27&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
@@ -140,13 +139,11 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Featured Projects
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+- **Face Filter CV Project** - Real-time face detection and edge tracking with OpenCV & MediaPipe
+- **Portfolio Website** - Responsive design with React and TailwindCSS
+- Check out more on my [GitHub](https://github.com/chetx27)
 
 ---
 
