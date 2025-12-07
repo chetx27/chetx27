@@ -13,7 +13,7 @@
 ## 💫 About Me 
 
 🔭 i'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!  
-🌱 currently diving deep into **DSA and JavaScript** to build beautiful things  
+🌱 currently diving deep into **comp sci** to build beautiful things  
 💖 always excited to learn something new and turn ideas into reality  
 💕 i love exploring new things ;)
 
