@@ -13,7 +13,7 @@
 ## 💫 About Me 
 
 🔭 i'm currently a **student** who loves coding, editing, writing, reading... basically everything creative!  
-🌱 currently diving deep into **DSA and JavaScript** to build beautiful things  
+🌱 currently diving deep into **com sci** to build beautiful things  
 💖 always excited to learn something new and turn ideas into reality  
 💕 i love exploring new things ;)
 
@@ -89,8 +89,6 @@
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose_pine&hide_border=false)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetx27&theme=rose_pine&hide_border=false&show_icons=true&count_private=true&include_all_commits=true)
@@ -105,9 +103,6 @@
 
 ### 📈 **Most Used Languages**
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=pie&theme=rose_pine&hide_border=false)
-
-### 🔥 **GitHub Activity Graph**
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&bg_color=191724&color=e0def4&line=c4a7e7&point=eb6f92&area=true&hide_border=true&theme=rose-pine)](https://github.com/chetx27)
 
 </div>
 
@@ -131,11 +126,7 @@
 
 - 📚 love binging on books when i need space
 - 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell? 😄)
-- ☕ Coffee? Hell no. Not in this lifetime.
 - 🎯 Weird? 100% Yes.
-- 💡 Believer in clean code and even cleaner commits
-- 🎮 When I'm not coding, I'm probably designing or reading
-- 👀 Currently exploring Computer Vision and Face Recognition projects
 
 ---
 
