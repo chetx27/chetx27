@@ -121,16 +121,6 @@
 
 </div>
 
----
-
-## 🎨 Fun Facts
-
-- 📚 love binging on books when i need space
-- 🌸 Rose Pine/Lilac? my favorite color scheme (can you tell? 😄)
-- 🎯 Weird? 100% Yes.
-
----
-
 <div align="center">
 
 ### Thanks for visiting! 💖
