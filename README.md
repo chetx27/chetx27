@@ -1,38 +1,54 @@
-# Hey there! I'm Chethana 🎀
-
 <div align="center">
+
+# 👋 Hey there! I'm Chethana 🎀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github)](https://github.com/chetx27)
-[![GitHub User's stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7&logo=github)](https://github.com/chetx27)
+[![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=repositories)
+
+### Computer Science Student | Full-Stack Developer | UI/UX Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E0DEF4&center=true&vCenter=true&random=false&width=600&lines=Building+beautiful+web+experiences+%E2%9C%A8;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Learning+Data+Science+%26+ML+%F0%9F%93%8A;Always+coding+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 About Me 
+## 🌟 About Me
 
-🔭 I'm currently a **Computer Science student** passionate about coding, design, and creative problem-solving  
-🌱 Learning **full-stack development**, **computer vision**, and **data science**  
-💖 Building beautiful, functional applications that solve real-world problems  
-💕 Always excited to collaborate and explore new technologies  
-📍 Based in **Bengaluru, Karnataka**
+```typescript
+const chethana = {
+    location: "Bengaluru, Karnataka 📍",
+    education: "Computer Science Student 🎓",
+    currentlyLearning: ["Full-Stack Development", "Computer Vision", "Data Science"],
+    interests: ["Web Development", "UI/UX Design", "Machine Learning", "Photography"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    lifePhilosophy: "Code, Create, Caffeinate, Repeat ☕"
+};
+```
 
 ---
 
-## 🏅 Holopin Badges
+## 🏅 Achievements & Badges
 
 <div align="center">
 
-[![Holopin Badges](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
+[![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
+
+### 🎖️ GitHub Profile Achievements
+
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetx27&theme=rose_pine)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
-### Languages
+<details open>
+<summary><b>🔤 Programming Languages</b></summary>
+<br>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,102 +57,231 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frameworks & Libraries
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Computer Vision & ML
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+</details>
 
-### Databases
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Cloud & Platforms
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Design Tools
+</details>
+
+<details open>
+<summary><b>🤖 Data Science & ML</b></summary>
+<br>
+
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Design & Creative Tools</b></summary>
+<br>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### Version Control & Tools
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  
+
+### 📈 Overall Stats
+
 <a href="https://github.com/chetx27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&icon_color=c4a7e7" alt="GitHub Stats" height="192px"/>
+</a>
+<a href="https://github.com/chetx27">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chetx27&theme=rose-pine&hide_border=true&background=1a1b27&stroke=e0def4&ring=c4a7e7&fire=eb6f92&currStreakLabel=e0def4" alt="GitHub Streak" height="192px"/>
+</a>
+
+### 💻 Most Used Languages
+
+<a href="https://github.com/chetx27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&langs_count=8" alt="Top Languages" height="192px"/>
+</a>
+<a href="https://github.com/chetx27">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chetx27&theme=rose_pine" alt="Repos per Language" height="192px"/>
+</a>
+
+### 📊 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&custom_title=Chethana's%20Contribution%20Graph&bg_color=1a1b27&color=e0def4&line=c4a7e7&point=eb6f92&area_color=c4a7e7&area=true&hide_border=true)
+
+### 🏆 GitHub Trophies
+
+<a href="https://github.com/chetx27">
+  <img src="https://github-profile-trophy.vercel.app/?username=chetx27&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 </a>
 
 </div>
 
+---
+
+## 🔥 Streak Stats & Recent Activity
+
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chetx27&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chetx27&theme=rose-pine&hide_border=true&background=1a1b27&stroke=e0def4&ring=c4a7e7&fire=eb6f92&currStreakLabel=e0def4&dates=e0def4&sideNums=e0def4&currStreakNum=e0def4&sideLabels=e0def4)](https://git.io/streak-stats)
+
+### 📅 Contribution Calendar
+
+![GitHub Activity](https://ghchart.rshah.org/c4a7e7/chetx27)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus & Learning Path
 
 <div align="center">
 
-[![Chethana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&theme=rose-pine&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/chetx27)
+```mermaid
+graph LR
+    A[🎓 Current Learning] --> B[Full-Stack Development]
+    A --> C[Computer Vision]
+    A --> D[Data Science & ML]
+    B --> E[React.js & Next.js]
+    B --> F[Node.js & Express]
+    C --> G[OpenCV Projects]
+    C --> H[Deep Learning]
+    D --> I[Python Libraries]
+    D --> J[ML Algorithms]
+```
+
+### 🚀 2025 Goals
+
+- [ ] Build 5 full-stack projects
+- [ ] Contribute to 3 open-source projects
+- [ ] Master TypeScript & Next.js
+- [ ] Complete Computer Vision specialization
+- [ ] Create 10 ML models
+- [ ] Write technical blog posts
+- [ ] Attend 2 tech conferences
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chetx27&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E0DEF4&center=true&vCenter=true&width=700&lines=Building+beautiful+websites+with+React+%E2%9A%9B%EF%B8%8F;Creating+responsive+designs+with+CSS+%F0%9F%8E%A8;Exploring+Computer+Vision+with+OpenCV+%F0%9F%91%81%EF%B8%8F;Mastering+Data+Science+and+ML+%F0%9F%93%8A;Always+learning+something+new+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 📫 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetx27)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chetx27)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chetx27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethana.workspace@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetx27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/chetx27)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chetx27)
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+
+If you like my projects, consider giving them a ⭐!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chetx27)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chetx27)
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon! Stay tuned for articles on web development, ML, and more!
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-chetx27.vercel.app/api/spotify)](https://open.spotify.com/user/chetx27)
 
 </div>
 
@@ -144,8 +289,16 @@
 
 <div align="center">
 
-### ✨ Thanks for visiting! Feel free to explore my repositories 💖
+### ✨ Thanks for visiting! Let's build something amazing together 💖
 
-![](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=flat-square&label=Profile+Views)
+
+### 🌟 Don't forget to ⭐ my repositories if you find them useful!
+
+---
+
+**"First, solve the problem. Then, write the code."** – John Johnson
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Animation" width="100%"/>
 
 </div>
