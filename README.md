@@ -159,13 +159,6 @@ const chethana = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&custom_title=Chethana's%20Contribution%20Graph&bg_color=1a1b27&color=e0def4&line=c4a7e7&point=eb6f92&area_color=c4a7e7&area=true&hide_border=true)
 
-### 🏆 GitHub Trophies
-
-<a href="https://github.com/chetx27">
-  <img src="https://github-profile-trophy.vercel.app/?username=chetx27&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-</a>
-
-</div>
 
 ---
 
