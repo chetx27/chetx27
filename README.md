@@ -149,11 +149,3 @@
 ![](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=flat-square&label=Profile+Views)
 
 </div>
-
----
-
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-</div>
