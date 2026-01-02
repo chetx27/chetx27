@@ -7,9 +7,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=repositories)
 
 ### Computer Science Student | Full-Stack Developer | UI/UX Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E0DEF4&center=true&vCenter=true&random=false&width=600&lines=Building+beautiful+web+experiences+%E2%9C%A8;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Learning+Data+Science+%26+ML+%F0%9F%93%8A;Always+coding+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -43,7 +40,7 @@ const chethana = {
 ## 💻 Tech Stack & Tools
 
 <details open>
-<summary><b>🔤 Programming Languages</b></summary>
+<summary><b> Programming Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -127,11 +124,11 @@ const chethana = {
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
-### 📈 Overall Stats
+###  Overall Stats
 
 <a href="https://github.com/chetx27">
   <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&icon_color=c4a7e7" alt="GitHub Stats" height="192px"/>
@@ -156,7 +153,7 @@ const chethana = {
 
 ---
 
-### 📅 Contribution Calendar
+###  Contribution Calendar
 
 ![GitHub Activity](https://ghchart.rshah.org/c4a7e7/chetx27)
 
@@ -164,7 +161,7 @@ const chethana = {
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
