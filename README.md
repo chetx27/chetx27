@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm Chethana 🎀
+# Hey there! I'm Chethana 🎀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=followers)
@@ -150,17 +150,6 @@ const chethana = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&custom_title=Chethana's%20Contribution%20Graph&bg_color=1a1b27&color=e0def4&line=c4a7e7&point=eb6f92&area_color=c4a7e7&area=true&hide_border=true)
 
-
----
-
-###  Contribution Calendar
-
-![GitHub Activity](https://ghchart.rshah.org/c4a7e7/chetx27)
-
-</div>
-
----
-
 ##  Connect With Me
 
 <div align="center">
@@ -174,10 +163,5 @@ const chethana = {
 ---
 
 ### ✨ Thanks for visiting! Let's build something amazing together 💖
-
-![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=flat-square&label=Profile+Views)
-
-### 🌟 Don't forget to ⭐ my repositories if you find them useful!
-
 ---
 
