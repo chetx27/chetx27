@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=repositories)
 
-### Computer Science Student | Full-Stack Developer | UI/UX Enthusiast
+### CompSci | AI | ML | UI/UX 
 </div>
 
 ---
@@ -16,7 +16,6 @@
 ```typescript
 const chethana = {
     location: "📍 Bengaluru",
-    education: "Computer Science Student 🎓",
     interests: ["Web Development", "UI/UX Design", "Machine Learning", "Photography"],
 };
 ```
@@ -35,7 +34,6 @@ const chethana = {
 
 </div>
 
----
 
 ## 💻 Tech Stack & Tools
 
@@ -160,8 +158,5 @@ const chethana = {
 </div>
 
 
----
-
-### ✨ Thanks for visiting! Let's build something amazing together 💖
 ---
 
