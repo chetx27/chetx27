@@ -156,7 +156,5 @@ const chethana = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itschetanaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethana.workspace@gmail.com)
 </div>
-
-
 ---
 
