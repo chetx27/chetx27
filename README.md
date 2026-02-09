@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Chethana 🎀
+# Hey there! I'm Chethana 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=followers)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 ```typescript
 const chethana = {
@@ -21,20 +21,20 @@ const chethana = {
 
 ---
 
-## 🏅 Achievements & Badges
+##  Achievements & Badges
 
 <div align="center">
 
 [![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
 
-### 🎖️ GitHub Profile Achievements
+###  GitHub Profile 
 
 ![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetx27&theme=rose_pine)
 
 </div>
 
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <details open>
 <summary><b> Programming Languages</b></summary>
@@ -52,7 +52,7 @@ const chethana = {
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -62,7 +62,7 @@ const chethana = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b> Backend Development</b></summary>
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -70,7 +70,7 @@ const chethana = {
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Cloud</b></summary>
+<summary><b> Databases & Cloud</b></summary>
 <br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -83,7 +83,7 @@ const chethana = {
 </details>
 
 <details open>
-<summary><b>🤖 Data Science & ML</b></summary>
+<summary><b> Data Science & ML</b></summary>
 <br>
 
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -96,7 +96,7 @@ const chethana = {
 </details>
 
 <details open>
-<summary><b>🎨 Design & Creative Tools</b></summary>
+<summary><b> Design & Creative Tools</b></summary>
 <br>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -108,7 +108,7 @@ const chethana = {
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<summary><b> Tools & Platforms</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -143,7 +143,7 @@ const chethana = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chetx27&theme=rose_pine" alt="Repos per Language" height="192px"/>
 </a>
 
-### 📊 Contribution Activity
+###  Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&custom_title=Chethana's%20Contribution%20Graph&bg_color=1a1b27&color=e0def4&line=c4a7e7&point=eb6f92&area_color=c4a7e7&area=true&hide_border=true)
 
@@ -155,4 +155,3 @@ const chethana = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itschetanaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethana.workspace@gmail.com)
 </div>
-
