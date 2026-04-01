@@ -168,19 +168,6 @@ const chethana = {
 
 ---
 
-## Projects
-
-<div align="center">
-
-[![NexusVault](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=NexusVault&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&icon_color=c4a7e7)](https://github.com/chetx27/NexusVault)
-[![AgentTip](https://github-readme-stats.vercel.app/api/pin/?username=chetx27&repo=AgentTip&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&icon_color=c4a7e7)](https://github.com/chetx27/AgentTip)
-
-[![View All Repos](https://img.shields.io/badge/View%20All%20Repos-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetx27?tab=repositories)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
