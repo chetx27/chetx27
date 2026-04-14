@@ -3,7 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=repositories)
-Full-stack dev | Frontend | Backend | AI | Web3 ? I do random things when i'm not coding!
+
+
+# Full-stack dev | Frontend | Backend | AI | Web3 ? I do random things when i'm not coding!
 
 ---
 
