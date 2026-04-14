@@ -1,26 +1,19 @@
-<div align="center">
-
-# Hello? Chethana here! 👋
+# Chethana G
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=c4a7e7&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/chetx27?style=for-the-badge&color=c4a7e7&logo=github&labelColor=1a1b27)](https://github.com/chetx27?tab=repositories)
-
-</div>
+Full-stack dev | Frontend | Backend | AI | Web3 ? I do random things when i'm not coding!
 
 ---
 
-## About Me
+## Badges
 
-```typescript
-const chethana = {
-  location:     "📍 Bengaluru",
-  currentFocus: ["Web3 / DeFi", "AI Agents", "Full-Stack Development"],
-  building:     ["NexusVault — on-chain dead man's switch protocol",
-                 "AgentTip — x402 micropayments for AI agents"],
-  interests:    ["Blockchain Infrastructure", "UI/UX Design", "Photography"],
-};
-```
+<div align="center">
+
+[![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
+
+</div>
 
 ---
 
@@ -40,21 +33,9 @@ const chethana = {
 
 ---
 
-## Badges
+## What I work with
 
-<div align="center">
-
-[![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
-
-</div>
-
----
-
-## Tech Stack
-
-<details open>
-<summary><b>Languages</b></summary>
-<br>
+**Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,11 +47,7 @@ const chethana = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Web3 & Blockchain</b></summary>
-<br>
+**Web3 & Blockchain**
 
 ![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -81,11 +58,7 @@ const chethana = {
 ![ENS](https://img.shields.io/badge/ENS-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
+**Frontend**
 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -94,20 +67,12 @@ const chethana = {
 ![Framer Motion](https://img.shields.io/badge/framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>Backend</b></summary>
-<br>
+**Backend**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-</details>
-
-<details open>
-<summary><b>Databases & Cloud</b></summary>
-<br>
+**Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -117,11 +82,7 @@ const chethana = {
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>AI & ML</b></summary>
-<br>
+**AI & ML**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-cc785c?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -129,11 +90,7 @@ const chethana = {
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Design & Tools</b></summary>
-<br>
+**Design & Tools**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -143,32 +100,20 @@ const chethana = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-</details>
-
 ---
 
-## GitHub Statistics
+## GitHub
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&icon_color=c4a7e7" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=rose-pine&hide_border=true&background=1a1b27&ring=c4a7e7&fire=eb6f92&currStreakLabel=e0def4" height="180px"/>
+</div>
 
-<a href="https://github.com/chetx27">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&icon_color=c4a7e7" alt="GitHub Stats" height="192px"/>
-</a>
-<a href="https://github.com/chetx27">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=rose-pine&hide_border=true&background=1a1b27&stroke=e0def4&ring=c4a7e7&fire=eb6f92&currStreakLabel=e0def4&sideLabels=e0def4&dates=9b8ea0" alt="GitHub Streak" height="192px"/>
-</a>
-
-<a href="https://github.com/chetx27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&langs_count=8" alt="Top Languages"/>
-</a>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetx27&custom_title=Chethana%27s%20Contribution%20Graph&bg_color=1a1b27&color=e0def4&line=c4a7e7&point=eb6f92&area_color=c4a7e7&area=true&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a1b27&title_color=e0def4&text_color=e0def4&langs_count=8"/>
 </div>
 
 ---
-
-## Connect
 
 <div align="center">
 
