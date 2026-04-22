@@ -2,12 +2,12 @@
 
 full-stack dev who likes building things that actually look good. i do web3, AI, and whatever else catches my attention!
 
-![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
+<div align="center">
+        
+  ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
 
----
-
-## what i work with
+# what i work with
 
 **languages**
 
@@ -25,7 +25,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)
 
-**AI & ML**
+**aI & mL**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
@@ -56,7 +56,8 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 ## find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
-[![Instagram](https://img.shields.io/badge/Instagram-itschetanaa-f38ba8?style=flat-square&logo=instagram&logoColor=1e1e2e)](https://instagram.com/itschetanaa)
-[![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
-[![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&logo=holopin&logoColor=1e1e2e)](https://holopin.io/@chetx27)
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
+  [![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
+  [![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&logo=holopin&logoColor=1e1e2e)](https://holopin.io/@chetx27)
