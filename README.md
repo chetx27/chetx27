@@ -37,24 +37,22 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=flat&logo=adobe%20lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
----
 
-## badges
+# badges
 
 [![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
 
 ---
 
-## github
+# github
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="175"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
 </div>
 
----
 
-## find me
+# find me
 
 <div align="center">
 
