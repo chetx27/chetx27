@@ -1,12 +1,12 @@
+<div align="center">
+
 # hey, i'm chethana 👾
 
 full-stack dev who likes building things that actually look good. i do web3, AI, and whatever else catches my attention!
 
-<div align="center">
-        
-  ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square&label=profile+views)
+[![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=repositories)
 
 </div>
 
@@ -46,7 +46,11 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 # badges
 
+<div align="center">
+
 [![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
+
+</div>
 
 ---
 
@@ -61,11 +65,13 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 # contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chetx27/chetx27/output/pacman-contribution-graph-dark.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
 
 ---
 
@@ -73,8 +79,8 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
-  [![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
-  [![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&logo=holopin&logoColor=1e1e2e)](https://holopin.io/@chetx27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
+[![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
+[![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&logo=holopin&logoColor=1e1e2e)](https://holopin.io/@chetx27)
 
 </div>
