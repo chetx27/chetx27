@@ -6,6 +6,11 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
         
   ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square)
   [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=repositories)
+
+</div>
+
+---
 
 # what i work with
 
@@ -25,7 +30,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)
 
-**aI & mL**
+**ai & ml**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
@@ -37,6 +42,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=flat&logo=adobe%20lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+---
 
 # badges
 
@@ -51,6 +57,17 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
 </div>
 
+---
+
+# contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chetx27/chetx27/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+---
 
 # find me
 
@@ -59,3 +76,5 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
   [![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
   [![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&logo=holopin&logoColor=1e1e2e)](https://holopin.io/@chetx27)
+
+</div>
