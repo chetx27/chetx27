@@ -10,7 +10,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 </div>
 
----
 
 <div align="center">
   
@@ -46,8 +45,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 </div>
 
----
-
 # badges
 
 <div align="center">
@@ -56,7 +53,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 </div>
 
----
 
 # github
 
@@ -65,7 +61,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
 </div>
 
----
 
 # contributions
 
@@ -77,7 +72,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
   </picture>
 </div>
 
----
 
 # find me
 
