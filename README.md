@@ -10,7 +10,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 </div>
 
-
 <div align="center">
   
 # what i work with
