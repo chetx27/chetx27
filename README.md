@@ -1,17 +1,16 @@
 <div align="center">
 
-# hey, i'm chethana 👾
+# hey, i'm chethana
 
 full-stack dev who likes building things that actually look good. i do web3, AI, and whatever else catches my attention!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square&label=profile+views)
 [![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=repositories)
 
 </div>
 
 <div align="center">
-  
+
 # what i work with
 
 **languages**
@@ -24,7 +23,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 **frontend**
 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 **backend & databases**
 
@@ -32,11 +31,11 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 **ai & ml**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 
 **cloud & devops**
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
 
 **design & tools**
 
@@ -55,8 +54,8 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 # github
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="175"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
 </div>
 
 # contributions
@@ -75,6 +74,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
 [![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
-[![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&logo=holopin&logoColor=1e1e2e)](https://holopin.io/@chetx27)
+[![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&labelColor=1e1e2e)](https://holopin.io/@chetx27)
 
 </div>
