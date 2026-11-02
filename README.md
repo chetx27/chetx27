@@ -46,9 +46,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 # badges
 
 <div align="center">
-
 [![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
-
 </div>
 
 # github
@@ -71,9 +69,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 # find me
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
 [![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
 [![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&labelColor=1e1e2e)](https://holopin.io/@chetx27)
-
 </div>
