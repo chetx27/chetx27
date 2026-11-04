@@ -13,14 +13,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=aiml+student+%40+cambridge+institute+of+technology;web3+builder+%7C+ethmumbai+2026+ens+prize+winner;full-stack+%7C+ml+%7C+whatever+breaks+next;shefi+scholar+%7C+bengaluru)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
 # what i work with
 
 **languages**
@@ -31,7 +23,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 **web3 & blockchain**
 
@@ -58,9 +49,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 **ai & ml**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
