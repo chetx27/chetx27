@@ -1,62 +1,55 @@
 <div align="center">
 
-# hey, i'm chethana
+# chethana
 
-full-stack dev who likes building things that actually look good. i do web3, AI, and whatever else catches my attention!
+first-year aiml @ cambridge institute of technology, bengaluru  
+web3 · full-stack · ml · whatever breaks next
 
-![Profile Views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square&label=profile+views)
-[![GitHub followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
+[![profile views](https://komarev.com/ghpvc/?username=chetx27&color=cba6f7&style=flat-square&label=profile+views)](https://github.com/chetx27)
+[![followers](https://img.shields.io/github/followers/chetx27?style=flat-square&color=cba6f7&logo=github&labelColor=1e1e2e)](https://github.com/chetx27?tab=followers)
 
 </div>
+
+---
+
+## stack
+
+| layer | tools |
+|---|---|
+| **languages** | Python · TypeScript · JavaScript · Java · C/C++ · SQL |
+| **frontend** | Next.js · React · Tailwind CSS · Vite |
+| **backend** | Node.js · Express · FastAPI |
+| **blockchain** | Solidity · Hardhat · Base · ENS · EAS |
+| **ml/ai** | PyTorch · MediaPipe · scikit-learn · NumPy · Pandas · OpenCV |
+| **db** | Firebase · Supabase |
+| **infra** | Vercel · Railway · Render · Git |
+| **design** | Figma · Canva |
+
+---
+
+## projects
+
+**[NexusVault](https://github.com/chetx27/nexus-3.0)** — on-chain dead man's switch inheritance protocol  
+`Solidity` `Hardhat` `Base Sepolia` `ENS` `EAS` `Next.js` `Three.js`  
+ETHMumbai 2026 · ENS Prize winner
+
+**[Ishaara](https://github.com/chetx27/ishaara)** — real-time Indian Sign Language translation  
+`MediaPipe` `BiLSTM` `FastAPI` `React` `PyTorch`
+
+**[PracticeAudit](https://github.com/chetx27/potential-octo-funicular)** — AI interview bias auditor for Indian English speakers  
+`SetFit` `React` `Vite`
+
+**[SkillDelta](https://github.com/chetx27/skill-lens)** — ML skill gap analyzer  
+`TF-IDF` `scikit-learn` `Streamlit` `Plotly`
+
+---
+
+## github
 
 <div align="center">
-
-# what i work with
-
-**languages**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-**web3 & blockchain**
-
-![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/hardhat-%23F7DF1E.svg?style=flat&logo=hardhat&logoColor=black) ![Base](https://img.shields.io/badge/base-%230052FF.svg?style=flat&logo=coinbase&logoColor=white) ![ENS](https://img.shields.io/badge/ENS-%235284FF.svg?style=flat&logo=ethereum&logoColor=white)
-
-**frontend**
-
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-**backend & databases**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)
-
-**ai & ml**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
-
-**cloud & devops**
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
-
-**design & tools**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="175"/>
+  <img src="https://streak-stats.demolab.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
 </div>
-
-# badges
-
-<div align="center">
-[![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
-</div>
-
-# github
-
-<div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="175"/>
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
-</div>
-
-# contributions
 
 <div align="center">
   <picture>
@@ -66,10 +59,16 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
   </picture>
 </div>
 
-# find me
+---
+
+## find me
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/chetx27)
-[![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:chethana.workspace@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetx27-89b4fa?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetx27)
+[![Email](https://img.shields.io/badge/Email-chethana.workspace-fab387?style=flat-square&logo=gmail&logoColor=white)](mailto:chethana.workspace@gmail.com)
 [![Holopin](https://img.shields.io/badge/Holopin-chetx27-cba6f7?style=flat-square&labelColor=1e1e2e)](https://holopin.io/@chetx27)
+
 </div>
+
+[![Holopin Board](https://holopin.me/chetx27)](https://holopin.io/@chetx27)
