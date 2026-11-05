@@ -101,12 +101,12 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 # github
 
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="175"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chetx27&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&cache_seconds=86400" height="175"/>
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=chetx27&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" height="175"/>
 </div>
 
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&layout=compact"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetx27&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&layout=compact&cache_seconds=86400"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 # contributions
 
 <div align="center">
-  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chetx27&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&hide_border=true"/>
+  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chetx27&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
