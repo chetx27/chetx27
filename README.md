@@ -49,6 +49,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 
 **ai & ml**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -113,11 +114,7 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 # contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/chetx27/chetx27/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chetx27&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&hide_border=true"/>
 </div>
 
 ---
