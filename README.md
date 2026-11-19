@@ -27,8 +27,6 @@ full-stack dev who likes building things that actually look good. i do web3, AI,
 **web3 & blockchain**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=flat&logo=hardhat&logoColor=black)
 ![Base](https://img.shields.io/badge/Base-%230052FF.svg?style=flat&logo=coinbase&logoColor=white)
 ![ENS](https://img.shields.io/badge/ENS-%235284FF.svg?style=flat&logo=ethereum&logoColor=white)
 
